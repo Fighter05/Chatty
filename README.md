@@ -1,4 +1,4 @@
-# chatty2
+# chatty
 
 A new Flutter project.
 
